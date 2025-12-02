@@ -103,8 +103,8 @@ pip install pandas numpy matplotlib seaborn jupyter
 bash
 
 ##Future Work
-. Implement various strategies for handling missing data (e.g., mean imputation, median imputation, regression imputation, or removal based on analysis).
-. Address outliers identified in numerical features.
-. Further feature engineering (e.g., creating seasonal indicators, interaction terms).
-. Develop and evaluate machine learning models (e.g., Logistic Regression, Random Forest, Gradient Boosting) to predict RainTomorrow.
-. Explore more advanced visualization techniques to uncover deeper insights.
+1. Implement various strategies for handling missing data (e.g., mean imputation, median imputation, regression imputation, or removal based on analysis).
+2. Address outliers identified in numerical features.
+3. Further feature engineering (e.g., creating seasonal indicators, interaction terms).
+4. Develop and evaluate machine learning models (e.g., Logistic Regression, Random Forest, Gradient Boosting) to predict RainTomorrow.
+5. Explore more advanced visualization techniques to uncover deeper insights.
