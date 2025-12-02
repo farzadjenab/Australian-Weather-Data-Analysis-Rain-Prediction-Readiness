@@ -102,7 +102,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 bash
 
-##Future Work
+## Future Work
 1. Implement various strategies for handling missing data (e.g., mean imputation, median imputation, regression imputation, or removal based on analysis).
 2. Address outliers identified in numerical features.
 3. Further feature engineering (e.g., creating seasonal indicators, interaction terms).
